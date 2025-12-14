@@ -8,9 +8,6 @@ Ekstensi Chrome yang membantu meningkatkan produktivitas belajar dengan fitur pe
 - [Instalasi](#-instalasi)
 - [Cara Penggunaan](#-cara-penggunaan)
 - [Teknologi](#-teknologi)
-- [Screenshot](#-screenshot)
-- [Kontribusi](#-kontribusi)
-- [Lisensi](#-lisensi)
 
 ## ✨ Fitur Utama
 
@@ -170,23 +167,6 @@ Extension ini dibangun menggunakan:
   - `chrome.webRequest` - Blocking website
   - `getUserMedia()` - Akses kamera untuk ML
 
-## 📸 Screenshot
-
-*Screenshot akan ditambahkan di sini*
-
-## 🤝 Kontribusi
-
-Kontribusi selalu diterima! Jika Anda ingin berkontribusi:
-
-1. Fork repository ini
-2. Buat branch baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
-
-## 📝 Lisensi
-
-Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📧 Kontak
 
@@ -197,13 +177,6 @@ Project Link: [https://github.com/Prayoga-bit/Focus-Study](https://github.com/Pr
 ---
 
 **⭐ Jika extension ini membantu produktivitas belajar Anda, jangan lupa berikan bintang di GitHub!**
-
-## 🙏 Acknowledgments
-
-- Inspirasi dari Teknik Pomodoro oleh Francesco Cirillo
-- TensorFlow.js team untuk ML framework
-- Chrome Extension documentation
-- Semua kontributor yang telah membantu project ini
 
 ---
 
